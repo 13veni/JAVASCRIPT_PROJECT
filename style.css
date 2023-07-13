@@ -1,0 +1,40 @@
+body{
+    background: black;
+}
+h1{
+    background: palevioletred;
+    border: 5px solid purple;
+    box-shadow: 5px 5px 5px rgb(106, 180, 223);
+    color: whitesmoke;
+    text-align: center;
+    height: 80px;
+    padding-top: 40px;
+}
+h2{
+    background:yellowgreen;
+    border: 5px solid darkgreen;
+    box-shadow: 5px 5px 5px ivory;
+    color: black;
+    text-align: center;
+    height: 80px;
+    padding-top: 40px;
+}
+div{
+    background:snow;
+    box-shadow: 5px 5px 5px orangered;
+    border: 5px solid red;
+    color:maroon;
+    text-align: center;
+    height: 80px;
+    width: 500px;
+    margin: auto;
+    margin-top: 70px;
+}
+p{
+    text-align: center;
+   font-size:xx-large;
+    padding-top: 2px;
+    
+}
+
+
